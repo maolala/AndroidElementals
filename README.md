@@ -292,12 +292,15 @@ Collection if libraries starred during some years of Android Development. Here i
 | Title | Description |
 | :----------: | :--------: |
 [Easy Camera](https://github.com/Glamdring/EasyCamera) | Wrapper around the android Camera class that simplifies its usage
+[Landscape Video Camera](https://github.com/jmolsmobile/LandscapeVideoCamera) | Powerful custom Android Camera with granular control over the video quality and filesize, restricting recordings to landscape only.
 
 #### <a name="chartsui">Charts
 
 | Title | Description |
 | :----------: | :--------: |
-[Eaze Graph](https://github.com/blackfizz/EazeGraph) | An Android chart and graph library
+[Eaze Graph](https://github.com/blackfizz/EazeGraph) | An Android chart and graph library 
+[WilliamChart](https://github.com/diogobernardino/WilliamChart) | Flexible charting library with nice motion capabilities 
+[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | An Android chart and graph library supporting scaling and dragging by gesture
 
 #### <a name="otherui">Other
 
