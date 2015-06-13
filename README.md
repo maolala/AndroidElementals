@@ -126,6 +126,7 @@ Collection if libraries starred during some years of Android Development. Here i
 [Circle ImageView](https://github.com/hdodenhof/CircleImageView) | A circular ImageView for Android
 [Custom Shape ImageView](https://github.com/MostafaGazar/CustomShapeImageView) | Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs
 [Rounded ImageView](https://github.com/vinc3m1/RoundedImageView) | a fast ImageView that supports rounded corners and ovals or circles
+[Selectable Rounded ImageView](https://github.com/pungrue26/SelectableRoundedImageView) | a ImageView that supports different radii on each corner. It also supports oval(and circle) shape and border.
 [Flip ImageView](https://github.com/castorflex/FlipImageView) | Small android lib allowing you to make a flip imageview easily, by extending FlipImageView
 [Glide](https://github.com/bumptech/glide) | An image loading and caching library for Android focused on smooth scrolling
 [Circular ImageView](https://github.com/Pkmmte/CircularImageView) | Custom view for circular images in Android while maintaining the best draw performance
