@@ -2,7 +2,7 @@ Some useful libraries, samples, tools & Open Source apps for Android
 ====================================================================
 
 ### (Guys I'm gonna erase this README since I haven't been able to find enough time to maintain this). So you could fork this and add the dependancies you want to https://android-arsenal.com/ Much worth it!
-I'm gonna focus in maintain my other repos, but this is too difficult to maintain in my own. The Android community has grown a lot and there are so many good apps out there! Good Luck!
+### I'm gonna focus in maintain my other repos, but this is too difficult to maintain in my own. The Android community has grown a lot and there are so many good apps out there! Good Luck!
 
 
 Collection if libraries starred during some years of Android Development. Here is the definitely list of android Open Source libraries
